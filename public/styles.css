@@ -64,7 +64,7 @@ font-family: BogleRegular;
   height: 150px;
   width: 130px;
 }
-#writerevb {
+#writerevb, #addtocart1 {
   border-radius: 17px;
   width: 160px;
   background-color: #0071dc;
@@ -73,6 +73,12 @@ font-family: BogleRegular;
   color: white;
   margin-bottom: 10px;
   font-weight: bold;
+}
+#addtocart1 {
+  position: relative;
+  bottom: 210px;
+  left: 100px;
+
 }
 #seerevb {
   border-radius: 17px;
@@ -370,7 +376,10 @@ top:2px;
   margin: auto ;
   padding: 20px;
   font-family:BogleRegular ;
- padding-top: 200px;
+ padding-top: 400px;
+
+
+ 
 
 }
 .linkscontent, .linkheaders {
@@ -396,9 +405,10 @@ a {
 #signup {
   position: relative;
   bottom: 56px;
-  left: 446px;
+  left: 442px;
   height: 56px;
   width: 127px;
+  top: 146px;
   color: white;
   background-color: black;
 border: none;
@@ -411,20 +421,23 @@ font-family: BogleBold;
   border-width: 1px;
   font-family: BogleRegular;
   font-size: 16px;
+  position:relative;
+  top: 200px;
 }
 #smedia {
   width: 639px;
   height: 59px;
   position: absolute;
   right: -100px;
-  bottom: 20px;
+  bottom: -140px;
+  
 }
 #subsid {
   width: 1760px;
   height: 114px;
 position: relative;
-top: 600px;
-right: 260px;
+top: 840px;
+right: 290px;
 
 }
 .ishelp {
