@@ -378,7 +378,7 @@ top:2px;
   font-family:BogleRegular ;
  padding-top: 400px;
 position: relative;
-bottom: -2800px;
+bottom: -2200px;
 
 
 
@@ -406,9 +406,9 @@ a {
 }
 #signup {
   position: relative;
-  bottom: -3100px;
+  bottom: -2267px;
   left: 442px;
-  height: 56px;
+  height: 53px;
   width: 127px;
 
   color: white;
@@ -424,14 +424,14 @@ font-family: BogleBold;
   font-family: BogleRegular;
   font-size: 16px;
   position:relative;
-  bottom: -3100px;
+  bottom: -2320px;
 }
 #smedia {
   width: 639px;
   height: 59px;
   position: absolute;
   right: -100px;
-  bottom: -3100px;
+  bottom: -2300px;
 
 }
 #subsid {
@@ -440,7 +440,7 @@ font-family: BogleBold;
 position: relative;
 
 right: 290px;
-bottom: -3600px;
+bottom: -3200px;
 
 }
 .ishelp {
