@@ -238,3 +238,34 @@ body {
    position: relative;
    bottom: 320px;
  }
+ .fullstar {
+  width: 10px;
+}
+#spb2 {
+  width: 12px;
+  color: grey;
+}
+#rwi {
+  font-size: 12px;
+  position: relative;
+  top: 500px;
+  right: 400px;
+  min-width: 300px;
+  color: grey;
+  text-decoration: underline;
+}
+#mainPic {
+  position: relative;
+  left: 30px;
+  z-index: 0;
+}
+.zoom-lens {
+  z-index: 5;
+}
+#zoomPic {
+  z-index: 10;
+}
+#root {
+  position: relative;
+  top: 300px;
+}

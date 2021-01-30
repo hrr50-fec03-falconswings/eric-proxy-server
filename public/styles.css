@@ -377,9 +377,11 @@ top:2px;
   padding: 20px;
   font-family:BogleRegular ;
  padding-top: 400px;
+position: relative;
+bottom: -2800px;
 
 
- 
+
 
 }
 .linkscontent, .linkheaders {
@@ -404,11 +406,11 @@ a {
 }
 #signup {
   position: relative;
-  bottom: 56px;
+  bottom: -3100px;
   left: 442px;
   height: 56px;
   width: 127px;
-  top: 146px;
+
   color: white;
   background-color: black;
 border: none;
@@ -422,22 +424,23 @@ font-family: BogleBold;
   font-family: BogleRegular;
   font-size: 16px;
   position:relative;
-  top: 200px;
+  bottom: -3100px;
 }
 #smedia {
   width: 639px;
   height: 59px;
   position: absolute;
   right: -100px;
-  bottom: -140px;
-  
+  bottom: -3100px;
+
 }
 #subsid {
   width: 1760px;
   height: 114px;
 position: relative;
-top: 840px;
+
 right: 290px;
+bottom: -3600px;
 
 }
 .ishelp {
