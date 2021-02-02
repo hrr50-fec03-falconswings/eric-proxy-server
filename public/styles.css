@@ -502,3 +502,8 @@ color: grey
   position: relative;
   top: -0px;
 }
+.pagebtn {
+  border: none;
+  margin-left: 3px;
+  text-decoration: underline;
+}
